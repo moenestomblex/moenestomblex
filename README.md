@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning java script</p>
+<h3 align="left">📚 I'm currently learning java script</h3>
 
 ###
 
